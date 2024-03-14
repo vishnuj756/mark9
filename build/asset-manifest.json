@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dac5de8b.css",
+    "main.js": "/static/js/main.a3b922a1.js",
+    "static/media/about-banner.png": "/static/media/about-banner.11caf39e2bba73cad0e0.png",
+    "static/media/discount-banner-1.jpg": "/static/media/discount-banner-1.e54af929de2bd95ce762.jpg",
+    "static/media/blog-img-2.jpg": "/static/media/blog-img-2.b01bcd2d87259d8e7314.jpg",
+    "static/media/banner-1.png": "/static/media/banner-1.fba43cb9d939ca29b2af.png",
+    "static/media/blog-img-1.jpg": "/static/media/blog-img-1.82405c99472472e3c3e5.jpg",
+    "static/media/banner-2.png": "/static/media/banner-2.69832bd9cad17c7be67d.png",
+    "static/media/section-category-1.jpg": "/static/media/section-category-1.ba3cd0492dafb4bf6915.jpg",
+    "static/media/banner-3.png": "/static/media/banner-3.e64695712eae5a86971b.png",
+    "static/media/product-img-1.jpg": "/static/media/product-img-1.c3e8f3cb538d466678e8.jpg",
+    "static/media/product-img-2.jpg": "/static/media/product-img-2.91e5839d96b2ca875fd0.jpg",
+    "static/media/product-img-3.jpg": "/static/media/product-img-3.315b2c11880843a9547d.jpg",
+    "static/media/logo.svg": "/static/media/logo.40ceaffeb5661adc816f20ce92edc60a.svg",
+    "index.html": "/index.html",
+    "main.dac5de8b.css.map": "/static/css/main.dac5de8b.css.map",
+    "main.a3b922a1.js.map": "/static/js/main.a3b922a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dac5de8b.css",
+    "static/js/main.a3b922a1.js"
+  ]
+}
